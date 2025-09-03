@@ -11,6 +11,9 @@ target/
 *.iws
 *.iml
 *.ipr
+.smarttomcat/*
+.idea/*
+
 
 ### Eclipse ###
 .apt_generated
@@ -30,6 +33,7 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+
 
 ### VS Code ###
 .vscode/
